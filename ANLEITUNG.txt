@@ -1,0 +1,21 @@
+PHASENVERGLEICH AUFS IPHONE – EINMALIG EINRICHTEN
+=================================================
+
+Die App muss einmal im Internet liegen. Danach läuft sie auf dem iPhone auch offline.
+Kostenlos geht das z. B. mit GitHub Pages:
+
+1. Am PC auf github.com ein kostenloses Konto anlegen.
+2. "New repository" > Name z. B. "phasenvergleich" > Public > "Create repository".
+3. "uploading an existing file" klicken und ALLE Dateien aus diesem Ordner
+   hineinziehen (index.html, sw.js, manifest.webmanifest, icon-*.png) > "Commit changes".
+4. Im Repository: Settings > Pages > Branch "main" / "(root)" > Save.
+   Nach 1–2 Minuten steht oben die Adresse, z. B.
+   https://DEINNAME.github.io/phasenvergleich/
+
+AUF DEM IPHONE
+5. Die Adresse in SAFARI öffnen (nicht Chrome).
+6. Teilen-Symbol (Quadrat mit Pfeil) > "Zum Home-Bildschirm" > Hinzufügen.
+7. Die App einmal mit Internet öffnen. Danach funktioniert sie auch ohne Netz.
+
+Die Messwerte bleiben auf dem Handy gespeichert.
+Hinweis: Die App ist nur eine Rechenhilfe. Vor dem Parallelschalten immer per Messung kontrollieren.
